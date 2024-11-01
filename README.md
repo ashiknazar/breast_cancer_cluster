@@ -26,7 +26,7 @@ The dataset used in this project is named `cancer.csv`, containing 1904 rows and
 ### Dataset Overview
 
 - **Shape**: (1904, 693)
-- **Features**:About features[DATA_DESCRIPTION.md](DATA_DESCRIPTION.md).
+- **Features**:About features[data_description.ipynb](data_description.ipynb).
 
 ### Data Source
 
